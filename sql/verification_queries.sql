@@ -1,5 +1,5 @@
 -- ============================================
--- Bharat InfraGrid
+-- INFRA SHEILD
 -- Database Verification Queries
 -- ============================================
 
