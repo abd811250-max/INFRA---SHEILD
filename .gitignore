@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Operating system
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
+
+# Local database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Large GIS datasets
+*.geojson
+*.shp
+*.shx
+*.dbf
+*.gpkg
